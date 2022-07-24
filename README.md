@@ -6,7 +6,7 @@ b) Recursive Best First Search
 
 ![image](https://user-images.githubusercontent.com/29068709/180639585-612f9b61-a1ad-486d-ab4d-8fad44a77609.png)
 
-Note 1:
+Note:
 1. Between every pair of states, parameters = (ticket_cost-TC, time expected-Hours) is
 given for each edge.
 2. Take linear combination of the relevant cost parameters for your cost design without the loss
