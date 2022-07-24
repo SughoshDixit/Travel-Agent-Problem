@@ -1,5 +1,5 @@
 # Travel-Agent-Problem
-AI solution to determine Optimal Path using DFS and RBFS
+AI solution to determine Optimal Path using DFS and RBFS.</br>
 A businessman wants to establish his new branches in Middle East countries. He needs to travel from Turkey to Kuwait by flight. Create an algorithm to help him to reach the destination with optimal cost. The cost factor may be attributed by ticket price, time taken on a particular route which are depicted in the below map. Here ticket price in dollars and time taken to particular route is denoted in Hours. By using the information provided for each city. Use the following algorithm to solve the problem:
 a) Depth First Search
 b) Recursive Best First Search
